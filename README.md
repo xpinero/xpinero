@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with ... Getting recruited
 - 💬 Ask me about ... motorcycles, bees or anything really 
 - 😄 Pronouns: ... He/Him/Sir
-- ⚡ Fun fact: ... My bees 🐝  like to eat fresh melons
--->
+- ⚡ Fun fact: ... My bees 🐝  like to eat fried fruit juice
 
 <h3>🛠 Tech Stack</h3>
 
