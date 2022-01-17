@@ -1,8 +1,6 @@
 ### What I am working on 👨🏽‍💻
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Family Promise, a shelter and relocation tool
 - 🌱 I’m currently learning ... React, Redux, NodeJS, Express, Python
 - 👯 I’m looking to collaborate on ... Any humanitarian or non profit project
