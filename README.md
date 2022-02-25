@@ -1,8 +1,8 @@
 ### What I am working on 👨🏽‍💻
 
 
-- 🔭 I’m currently working on ... Family Promise, a shelter and relocation tool
-- 🌱 I’m currently learning ... React, Redux, NodeJS, Express, Python
+- 🔭 I’m currently working on ... Personal website portfolio, retaking the GCA
+- 🌱 I’m currently learning ... React, Redux, NodeJS, Express, Python, .NET
 - 👯 I’m looking to collaborate on ... Any humanitarian or non profit project
 - 🤔 I’m looking for help with ... Getting recruited
 - 💬 Ask me about ... motorcycles, bees or anything really 
