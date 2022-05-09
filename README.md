@@ -1,13 +1,13 @@
 ### What I am working on 👨🏽‍💻
 
 
-- 🔭 I’m currently working on ... Personal website portfolio, retaking the GCA
+- 🔭 I’m currently working on ... My personal portfolio website, a CRUD API app, retaking the GCA
 - 🌱 I’m currently learning ... React, Redux, NodeJS, Express, Python, .NET
 - 👯 I’m looking to collaborate on ... Any humanitarian or non profit project
 - 🤔 I’m looking for help with ... Getting recruited
 - 💬 Ask me about ... motorcycles, bees or anything really 
 - 😄 Pronouns: ... He/Him/Sir
-- ⚡ Fun fact: ... My bees 🐝  like to eat fried fruit juice
+- ⚡ Fun fact: ... I have never met someone with my name
 
 <h3>🛠 Tech Stack</h3>
 
