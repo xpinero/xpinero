@@ -1,10 +1,10 @@
 ### What I am working on 👨🏽‍💻
 
 
-- 🔭 I’m currently working on ... My personal portfolio website, a CRUD API app, retaking the GCA
-- 🌱 I’m currently learning ... React, Redux, NodeJS, Express, Python, .NET
+- 🔭 I’m currently working on ... My friends website
+- 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... Any humanitarian or non profit project
-- 🤔 I’m looking for help with ... Getting recruited
+- 🤔 I’m looking for help with ... Getting my first web dev position
 - 💬 Ask me about ... motorcycles, bees or anything really 
 - 😄 Pronouns: ... He/Him/Sir
 - ⚡ Fun fact: ... I have never met someone with my name
